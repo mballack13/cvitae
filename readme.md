@@ -1,4 +1,6 @@
-<p>este site </p>
+<p>curriculum vitae sobre desenvolvedor Israel da Cunha Pereira (mnballack13)</p>
 
->sobre =>
+>sobre
+
+
 >status do projeto => concluido
