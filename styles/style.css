@@ -7,10 +7,18 @@
 
 :root{
     --cor-primária: #000000;
+    --cor-secundaria: #3D0000;
+    --cor-terciaria: #950101;
+    --cor-hover: #FF0000;
+    --cor-escrita01: #F6F6F6;
+    
+    /*
+    --cor-primária: #000000;
     --cor-secundaria: #282A3A;
     --cor-terciaria: #735F32;
     --cor-hover: #C69749;
     --cor-escrita01: #F6F6F6;
+    */
 
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
